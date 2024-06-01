@@ -1,0 +1,28 @@
+# Privacy Policy
+
+## Introduction
+We value your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your personal data.
+
+## Data Collection
+We collect data to provide better services to our users. The data we collect includes:
+- User IDs
+- Usernames
+- Messages sent via the bot
+
+## Data Usage
+We use the data collected to:
+- Provide and maintain our services
+- Improve user experience
+- Ensure security and prevent misuse
+
+## Data Sharing
+We do not share your personal data with third parties, except as required by law.
+
+## Your Rights
+You have the right to access, correct, or delete your personal data. If you have any questions or concerns, please contact us.
+
+## Changes to This Policy
+We may update our privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.
+
+## Contact Us
+If you have any questions about this privacy policy, please contact us at [your contact email].
