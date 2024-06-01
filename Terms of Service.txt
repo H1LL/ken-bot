@@ -1,0 +1,22 @@
+# Terms of Service
+
+## Introduction
+These terms of service govern your use of our Discord bot. By using our bot, you agree to comply with these terms.
+
+## Use of Service
+You agree to use our bot in accordance with all applicable laws and regulations. You must not use the bot for any unlawful or prohibited activities.
+
+## Modifications to the Service
+We reserve the right to modify or discontinue the bot at any time without notice.
+
+## User Responsibilities
+You are responsible for all activities that occur under your account. You must notify us immediately of any unauthorized use of your account.
+
+## Limitation of Liability
+We are not liable for any damages resulting from the use of our bot. Our liability is limited to the maximum extent permitted by law.
+
+## Changes to These Terms
+We may update these terms of service from time to time. We will notify you of any changes by posting the new terms on this page.
+
+## Contact Us
+If you have any questions about these terms of service, please contact us at [your contact email].
